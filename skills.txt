@@ -1,0 +1,11 @@
+Skills:
+	1. Git Bash,
+	2. JSON,
+	3. Postman,
+	4. Dev Tools,
+	5. Android Srudio,
+	6. SQL,
+	7. Jmeter,
+	9. Python,
+	10. Charles
+
