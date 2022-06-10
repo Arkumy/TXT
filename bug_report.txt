@@ -1,4 +1,4 @@
-	Bug id: 1.
+	Bug ID: 1.
 	Title: Widget doesn’t have white dash line on display.
 	Severity: major.
 	Priority: high.
