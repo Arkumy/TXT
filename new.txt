@@ -1,0 +1,8 @@
+
+Name - Arina,
+Lastname - Kumysheva,
+Patronymic - Ruslanovna,
+Age - 27,
+Pets - 2,
+Future salary - 1500$.
+
